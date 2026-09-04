@@ -642,9 +642,9 @@ export default function App() {
       <Hero />
       <Pains />
       <Solutions />
+      <About />
       <Process />
       <Stats />
-      <About />
       <CTA />
       <Footer />
     </div>
