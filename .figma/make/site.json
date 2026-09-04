@@ -1,0 +1,10 @@
+{
+  "description": "Streamline financial management for SMEs with a professional landing page offering cash flow forecasting, financial diagnostics, and strategic decision support.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
